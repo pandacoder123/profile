@@ -1,5 +1,5 @@
 # About Me :
-<h1 align="center">Hi, I'm pandacoder</h1>
+<h1 align="center">Hi, I'm pandacoder⌨</h1>
 <h3 align="center">I am a 13y year old Front End Developer</h3>
 
 - 💻 Find out more about me at [https://vulcanwm.is-a.dev](https://vulcanwm.is-a.dev)
